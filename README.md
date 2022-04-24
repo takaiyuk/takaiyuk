@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=takaiyuk&count_private=true&theme=default&show_icons=true" />
-</a>
+[![takaiyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=takaiyuk&count_private=true&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takaiyuk&layout=compact&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
